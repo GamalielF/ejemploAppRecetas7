@@ -1,6 +1,6 @@
 package net.osgg.ejemploAppRecetas.config;
 
-import  org.springframework.beans.factory.annotation.Value;
+import  org.springframework.beans.factory.annotation.Value; 
 import  org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import  org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration;
 import  org.springframework.context.annotation.Configuration;
